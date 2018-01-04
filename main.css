@@ -8,6 +8,7 @@ div {
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
+}
   #red { color: #f00;}
   #orange { color: #ffa500;}
   #yellow { color: #ff0;}
@@ -15,4 +16,4 @@ div {
   #blue { color: #06f;}
   #indigo { color: #8a2be2;}
   #voilet { color: #d300c9;}
-}
+
